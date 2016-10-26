@@ -16,21 +16,22 @@ keywords: highered, college, university, philadelphia, Temple, global studies
 
 # Address
 address:
-  building: Anderson Hall
-  room: 8th Floor, Room 832
-  street: 1114 Polett Walk
+  building: Gladfelter Hall
+  room: 663
+  street: 1115 Polett Walk
   city: Phialdelphia, PA 19122
+  email: globalstudies@temple.edu
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social: 
-  # Facebook - https://facebook.com/USERNAME
+  # Facebook - https://www.facebook.com/TUGlobalStudies
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  facebook: TUGlobalStudies
   # Twitter - https://twitter.com/USERNAME
-  twitter: TULiberalArts
-  # Instagram - https://www.instagram.com/USERNAME
+  twitter: TUGlobalStudies
+  # Instagram -https://twitter.com/TUGlobalStudies
   instagram: TULiberalArts
   # Snapchat - USERNAME
   snapchat: 
