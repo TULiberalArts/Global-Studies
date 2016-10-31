@@ -7,21 +7,21 @@ layout: page
 ## Make your Declaration
 
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
-For a complete list of our academic offerings visit liberalarts.temple.edu.
+For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).
 
 ## Visit Us
 
-The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit.
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit).
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.   
-For more information, please go to: liberalarts.temple.edu/admissions/visit.
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
 
 ## Thinking of transferring
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit temple.edu/transfer.
+The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer).
 
 ## Apply
 
-When you are ready to apply, submit your application online at admissions.temple.edu/app.
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app).
 
 ## Deadlines
 
@@ -41,7 +41,7 @@ Political Science 1301: International Politics
 Economics 1101: Macroeconomic Principles
 History 2819: Global Connections
 
-From here, students can select one of three thematic tracks to become the focus of their major:  Global Security, Global Economy or Global Cultures.
+From here, students can select one of three thematic tracks to become the focus of their major: Global Security, Global Economy or Global Cultures.
 
 In addition, students will complete at least two years of foreign language instruction, as well as a Regional Enrichment program which can take the form of an approved study abroad program or coursework focusing on an area of the world in which you are most interested.
 
@@ -75,7 +75,7 @@ Politics of the Global Economy
 
 ## Global Cultures
 
-Globalization does not simply affect security and economics:  Throughout history, different cultures have interacted and intermixed, sometimes peacefully and sometimes through imperialism and conquest.  The Global Cultures track focuses not only on different national cultures, but also on what happens when cultures come into contact, and sometimes into conflict.  Students in this track will examine the interaction of global and local cultures from the European imperialisms of the 19th century through the spread of Americanization in the 20th century to the ever-more pluralistic digital world of the 21st century, drawing on courses selected from a wide list of options in literature, film, religion, history, anthropology, religion, and sociology.
+Globalization does not simply affect security and economics: Throughout history, different cultures have interacted and intermixed, sometimes peacefully and sometimes through imperialism and conquest. The Global Cultures track focuses not only on different national cultures, but also on what happens when cultures come into contact, and sometimes into conflict. Students in this track will examine the interaction of global and local cultures from the European imperialisms of the 19th century through the spread of Americanization in the 20th century to the ever-more pluralistic digital world of the 21st century, drawing on courses selected from a wide list of options in literature, film, religion, history, anthropology, religion, and sociology.
 
 Popular courses
 
@@ -88,15 +88,15 @@ Popular courses
 
 One of the most exciting opportunities for students at Temple and in the Global Studies major is the opportunity to study abroad in another country.  Study abroad is strongly encouraged for all Global Studies majors as part of the Regional Enrichment program, and advisors in the Office of Education Abroad and Overseas Campuses and the Global Studies faculty advisors will work directly with students to help identify the study abroad option that best fits with their foreign language choices, academic interests and career plans. Students can select a summer program (6 credits) or full semester (12-15 credits) option for this requirement.
 
-Students may opt to study abroad at either of Temple’s international campuses in Rome or Tokyo. Students in these programs pay regular Temple tuition rates and receive financial aid. Full details on both programs are available [here]http://www.temple.edu/studyabroad/programs/index.html. In addition to these options, there are many other Temple semester and summer programs to choose from. Students are also permitted to study abroad through other, Temple-approved programs elsewhere.
+Students may opt to study abroad at either of Temple’s international campuses in Rome or Tokyo. Students in these programs pay regular Temple tuition rates and receive financial aid. Full details on both programs are available [here](http://www.temple.edu/studyabroad/programs/index.html). In addition to these options, there are many other Temple semester and summer programs to choose from. Students are also permitted to study abroad through other, Temple-approved programs elsewhere.
 
 Students who are unable to participate in study abroad because of personal obligations or financial limitations may select the Area Studies option to fulfill their Regional Enrichment requirement. In this option, students select two courses focused on the culture, development, history or politics of a world region of their choice.
 
-For much more detail on the Global Studies major and its requirements, see the Temple University Undergraduate Bulletin, [here]http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/.
+For much more detail on the Global Studies major and its requirements, see the Temple University Undergraduate Bulletin, [here](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/).
 
 ## The Global Studies Minor
 
-Students also enjoy the option of taking Global Studies as a minor, featuring the four Foundation courses, together with three courses selected from one of the three thematic tracks.  There is no foreign-language or regional enrichment requirement for the minor.  For details, see the Temple University Undergraduate Bulletin, here.
+Students also enjoy the option of taking Global Studies as a minor, featuring the four Foundation courses, together with three courses selected from one of the three thematic tracks. There is no foreign-language or regional enrichment requirement for the minor.  For details, see the Temple University Undergraduate Bulletin, here.
 
 ## Careers in Global Studies
 
