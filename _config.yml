@@ -90,7 +90,7 @@ prose:
   metadata:
     pages:
       - name: "title"
-        field:""
+        field: ""
           element: "text"
           label: "Title"
       - name: "permalink"
