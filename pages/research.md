@@ -1,7 +1,8 @@
 ---
 title: Research
-permalink: "/research"
+permalink: /research
 layout: page
+published: true
 ---
 # Funding Opportunities
 
@@ -16,11 +17,11 @@ To be eligible to apply, applicants must be enrolled full-time as undergraduates
 
 To apply, students need to complete the attached form. All applications should be sent in PDF or Word format to globalstudies@temple.edu.  Questions about the scholarship should be directed to Danielle Scherer, the Assistant Director of Global Studies, at danielle.scherer@temple.edu.
 
-Deadlines to apply:
+## Deadlines to apply:
 
-Summer Sessions: February 15th
-Fall Term & Academic Year: April 15th
-Spring Term: October 15th
+- Summer Sessions: February 15th
+- Fall Term & Academic Year: April 15th
+- Spring Term: October 15th
 
 [Global Studies’ Undergraduate Study Abroad Scholarship Application]:(http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx) 
 
