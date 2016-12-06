@@ -32,10 +32,17 @@ We also offer a minor in Global Studies, available to undergraduate students in 
 
 ## Funding Opportunities
 
-Global Studies Program has four funding opportunities available to members of the Temple community. Some of the funding opportunities enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
+Global Studies Program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
 
-The Global Scholar Grant is available to undergraduate Global Studies majors to help fund their study abroad experiences. Awards range from $1,500 for summer programs to $5,000 for an academic year abroad. Find out more information about applying for this grant and upcoming deadlines.
-- The Global Studies Program in the College of Liberal Arts at Temple announces the call for applications for Global Scholar Grants to support Global Studies majors to study abroad. Global Studies majors may request up to $1,500 for a summer term abroad, $3,000 for a semester abroad, and $5,000 for an academic year abroad. A limited number of scholarships will be awarded. Awards will be allocated based on merit and need.
+### Global Scholar Grant
+
+The Global Scholar Grant is available to undergraduate Global Studies majors to help fund their study abroad experiences. Awards may include:
+
+- Up to $1,500 for summer programs
+- Up to $3,000 for a semester abroad
+-Up to $5,000 for an academic year abroad
+
+A limited number of scholarships will be awarded, and awards will be allocated based on merit and need.
 
 As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world to complement the global, thematic focus of the major. This scholarship is aimed at students who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement.
 
