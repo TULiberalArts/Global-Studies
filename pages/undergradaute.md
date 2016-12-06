@@ -8,7 +8,9 @@ The world is increasingly globalized, with goods, services, people and ideas tra
 
 ## A Global Perspective
 
-### International Ppportunities
+Gain advanced knowledge about international cultures and essential skills that are prized by every professional industry.
+
+### International Opportunities
 
 Our students have the opportunity to study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs.
 
@@ -28,7 +30,9 @@ The tracks allow students to identify a specialized program of study that draws 
 
 We also offer a minor in Global Studies, available to undergraduate students in all schools and colleges at Temple.
 
-As the latest step in the globalization of the College of Liberal Arts, the Global Studies Program is a center of all things global at Temple. To facilitate the globalizing of the Temple community and its members beyond the classroom, the Global Studies Program has four funding opportunities available to members of the Temple community. Some of the funding opportunities enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
+## Funding Opportunities
+
+Global Studies Program has four funding opportunities available to members of the Temple community. Some of the funding opportunities enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
 
 The Global Scholar Grant is available to undergraduate Global Studies majors to help fund their study abroad experiences. Awards range from $1,500 for summer programs to $5,000 for an academic year abroad. Find out more information about applying for this grant and upcoming deadlines.
 - The Global Studies Program in the College of Liberal Arts at Temple announces the call for applications for Global Scholar Grants to support Global Studies majors to study abroad. Global Studies majors may request up to $1,500 for a summer term abroad, $3,000 for a semester abroad, and $5,000 for an academic year abroad. A limited number of scholarships will be awarded. Awards will be allocated based on merit and need.
