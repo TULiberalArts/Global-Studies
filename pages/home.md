@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 
 The world is increasingly globalized, with goods, services, money, and ideas moving ever more quickly across borders. Knowing about the wider world is therefore no longer a luxury, but a necessity for  students preparing for life in the 21st century.The Global Studies program introduces students to the new, globalized world through the study of global security, the global economy, and global cultures from different disciplinary perspectives.
