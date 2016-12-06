@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /research
+permalink: "/research/"
 layout: page
 published: true
 ---
@@ -23,7 +23,7 @@ To apply, students need to complete the attached form. All applications should b
 - Fall Term & Academic Year: April 15th
 - Spring Term: October 15th
 
-[Global Studies’ Undergraduate Study Abroad Scholarship Application]:(http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx) 
+[Global Studies’ Undergraduate Study Abroad Scholarship Application]:(http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx)
 
 The Global Studies Student Organization Grants are available to undergraduate or graduate student organizations that are affiliated with the College of Liberal Arts to help fund global activities both on and off campus. Find out more information about applying for this grant and upcoming deadlines.
 - The new Global Studies Program in the College of Liberal Arts (CLA) announces a call for proposals for Student Organization Grants for the upcoming academic year. As an interdisciplinary program with both global and regional components, the Global Studies Program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any CLA-affiliated student organization may apply for grants of up to $1,000.

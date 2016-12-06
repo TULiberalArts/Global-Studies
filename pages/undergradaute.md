@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-permalink: /undergraduate
+permalink: "/undergraduate/"
 layout: page
 published: true
 ---
@@ -69,7 +69,7 @@ Applications should consist of the following:
 - A cover letter including your name, TUID, email address, advisor’s contact information, and a timeline for the completion of the project
 - An updated CV
 - An abstract of no more than three double-spaced pages summarizing the research project, the specific research activities to be funded by the grant, and the contribution that these activities will make to your dissertation or other publishable research project
-- A detailed budget showing how funds will be spent 
+- A detailed budget showing how funds will be spent
 - A letter of recommendation (sent directly by an advisor)
 
 All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](globalstudies@temple.edu). Questions about the grant should be directed to Global Studies Program Director Mark Pollack at [mark.pollack@temple.edu](mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
