@@ -6,17 +6,17 @@ published: true
 ---
 Global Studies Program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
 
-### Global Scholar Grant
+##  Global Scholar Grant
 
 The Global Scholar Grant is available to undergraduate Global Studies majors to help fund their study abroad experiences. Awards may include:
 
 - Up to $1,500 for summer programs
 - Up to $3,000 for a semester abroad
--Up to $5,000 for an academic year abroad
+- Up to $5,000 for an academic year abroad
 
 A limited number of scholarships will be awarded, and awards will be allocated based on merit and need.
 
-### Regional Enrichment Scholarship
+## Regional Enrichment Scholarship
 
 As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world to complement the global, thematic focus of the major. This scholarship is aimed at students who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement.
 
@@ -24,12 +24,13 @@ To be eligible to apply, applicants must be enrolled as full-time undergraduates
 
 To apply, students must complete the attached form. All applications should be sent in PDF or Word format to globalstudies@temple.edu. Questions about the scholarship should be directed to Danielle Scherer, the Assistant Director of Global Studies, at danielle.scherer@temple.edu.
 
-**Deadlines:**
-
-Summer Sessions- February 15th
-Fall Term & Academic Year- April 15th
-Spring Term- October 15th
 [Global Studies’ Undergraduate Study Abroad Scholarship Application](http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx)
+
+### Deadlines:
+
+- Summer Sessions: February 15th
+- Fall Term & Academic Year: April 15th
+- Spring Term: October 15th
 
 ### Student Organization Grants
 
@@ -72,5 +73,3 @@ Preference will be given to interdisciplinary proposals with participation from 
 All applications are due by March 15th, for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
 
 Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies Program, at [mark.pollack@temple.edu](mark.pollack@temple.edu).
-
-Additional questions about Global Studies funding opportunities can be directed toward Mark Pollack, [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu), the Director of the Global Studies Program.
