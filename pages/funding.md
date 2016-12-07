@@ -32,7 +32,7 @@ To apply, students must complete the attached form. All applications should be s
 - Fall Term & Academic Year: April 15th
 - Spring Term: October 15th
 
-### Student Organization Grants
+## Student Organization Grants
 
 As an interdisciplinary program with both global and regional components, the Global Studies Program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any CLA-affiliated student organization may apply for grants of up to $1,000.
 
@@ -42,7 +42,7 @@ All applications are due by March 15th for the following academic year, and awar
 
 Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies Program, at [mark.pollack@temple.edu](mark.pollack@temple.edu).
 
-### Student Research Grant
+## Student Research Grant
 
 The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
 
@@ -60,7 +60,7 @@ Applications should consist of the following:
 
 All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](globalstudies@temple.edu). Questions about the grant should be directed to Global Studies Program Director Mark Pollack at [mark.pollack@temple.edu](mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
 
-### Event Grants
+## Event Grants
 
 Global Studies Event Grants are available to College of Liberal Arts faculty to host public events with an international or global focus, including lectures, speakers series, workshops, conferences, performances, and film screenings. All sponsored events must be public and open to all members of the Temple community.
 
