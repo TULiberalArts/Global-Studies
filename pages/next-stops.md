@@ -8,7 +8,7 @@ When you major in Global Studies, you learn the skills, perspective and worldvie
 
 Foreign language proficiency and study abroad experience will also make Global Studies graduates attractive job candidates in an array of industries, including business, civil service, government, education, law, medicine and health.
 
-**A BA in Global Studies prepares students to:**
+**A degree in Global Studies prepares students to:**
 
 - Understand complex global problems using tools from multiple disciplines, including economic analysis, social science and historical methods.
 - Communicate ideas about global issues effectively, through written work, oral expression and digital communication tools.
