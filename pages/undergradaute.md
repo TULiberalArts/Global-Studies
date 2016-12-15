@@ -4,7 +4,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 ---
-![undergraduate image]({{site.baseurl}}/assets/img_gs_globalecon.png)
+![]({{site.baseurl}}/assets/img_gs_globalecon.png)
 We offer a BA in Global Studies with specialization in one of three tracks: **global security**, **global economy** or **global cultures**.
 
 The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
