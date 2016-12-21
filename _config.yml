@@ -32,7 +32,7 @@ social:
   # Twitter - https://twitter.com/USERNAME
   twitter: TUGlobalStudies
   # Instagram -https://twitter.com/TUGlobalStudies
-  instagram: 
+  instagram:
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
@@ -105,3 +105,13 @@ prose:
               value: faculty
             - name: home
               value: home
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
