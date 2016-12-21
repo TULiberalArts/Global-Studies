@@ -9,7 +9,7 @@ headline-image: assets/hero_globalstudies.png
 ---
 The world is increasingly globalized, with goods, services, people and ideas traveling across borders more often, and more quickly, than ever before. Our interdisciplinary Global Studies program brings together coursework from across a dozen departments, focused on the study of global security, economy and cultures, and complemented by intensive language instruction and study abroad options.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## A Global Perspective
 
