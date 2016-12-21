@@ -4,7 +4,6 @@ permalink: /funding/
 layout: page
 published: true
 ---
-![]({{site.baseurl}}/assets/img_gs_languages.png)
 Global Studies Program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
 
 ##  Global Scholar Grant

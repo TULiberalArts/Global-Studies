@@ -4,7 +4,6 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-![]({{site.baseurl}}/assets/img_gs_rome.png)
 When you major in Global Studies, you learn the skills, perspective and worldview necessary to be a top candidate for careers or graduate study in a variety of disciplines.
 
 Foreign language proficiency and study abroad experience will also make Global Studies graduates attractive job candidates in an array of industries, including business, civil service, government, education, law, medicine and health.
