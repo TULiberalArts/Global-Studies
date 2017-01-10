@@ -16,8 +16,10 @@ Foreign language proficiency and study abroad experience will also make Global S
 
 ## Study Around the World
 
-One of the most exciting opportunities for students in the Global Studies major is the opportunity to study abroad. Study abroad is strongly encouraged for all Global Studies majors as part of the Regional Enrichment program, and advisors will work with you to directly identify the study abroad option that best fits with your foreign language choices, academic interests and career plans. Students can select a summer program (6 credits) or full semester (12-15 credits) option for this requirement.
+One of the most exciting opportunities for students in the Global Studies major is the opportunity to [study abroad](http://studyabroad.temple.edu/). Study abroad is strongly encouraged for all Global Studies majors as part of the Regional Enrichment program, and advisors will work with you to directly identify the study abroad option that best fits with your foreign language choices, academic interests and career plans. Students can select a summer program (6 credits) or full semester (12-15 credits) option for this requirement.
 
-Students may opt to study abroad at either of Temple’s international campuses in Rome or Tokyo. Students in these programs pay regular Temple tuition rates and receive financial aid. Full details on both programs are available [here](http://www.temple.edu/studyabroad/programs/index.html). In addition to these options, there are many other Temple semester and summer programs to choose from. Students are also permitted to study abroad through other, Temple-approved programs elsewhere.
+Students may opt to study abroad at either of Temple’s international campuses in Rome or Tokyo. Students in these programs pay regular Temple tuition rates and receive financial aid.
+
+In addition to these options, there are many other Temple semester and summer programs to choose from. Students are also permitted to study abroad through other, Temple-approved programs elsewhere.
 
 Students who are unable to participate in study abroad because of personal obligations or financial limitations may select the Area Studies option to fulfill their Regional Enrichment requirement. In this option, students select two courses focused on the culture, development, history or politics of a world region of their choice.
