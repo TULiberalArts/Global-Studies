@@ -34,7 +34,7 @@ To apply, students must complete the attached form. All applications should be s
 
 ## Student Organization Grants
 
-As an interdisciplinary program with both global and regional components, the Global Studies Program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any CLA-affiliated student organization may apply for grants of up to $1,000.
+As an interdisciplinary program with both global and regional components, the Global Studies Program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any College of Liberal Arts-affiliated student organization may apply for grants of up to $1,000.
 
 Applications should consist of a brief (one-page) description of the proposed global or internationally-oriented activities, together with a detailed budget of costs as well as any available co-funding from other sources. Preference will be given to proposals with anticipated or (preferably) confirmed co-financing from other departments, programs, or outside sources of funding.
 
