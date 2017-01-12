@@ -66,8 +66,7 @@ Economic globalization is one of the defining features of the contemporary world
   <li><a href="http://bulletin.temple.edu/search/?search=HIST+2702" title="Imperialism, Race, and Empire">Imperialism, Race, and Empire</a></li>
   <li><a href="http://bulletin.temple.edu/search/?search=REL+1001" title="Religion and Society">Religion and Society</a></li>
   <li><a href="http://bulletin.temple.edu/search/?search=SOC+3219" title="Globalization: Causes, Promises, and Discontents">Globalization: Causes, Promises, and Discontents</a></li>
-  <li>Regional Enrichment Options
-&lt;/span&gt;</li>
+  <li>Regional Enrichment Options</li>
 </ul>
 </div>
 
