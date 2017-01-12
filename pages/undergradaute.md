@@ -27,40 +27,42 @@ A writing-intensive senior capstone research seminar brings it all together, wit
 
 ### Global Security
 
-Today’s world faces a raft of potential security threats, from the rise of new great powers to international terrorism, weapons proliferation, cyber warfare, and the possibility of new global epidemics, among others. Students in the Global Security track have access to dozens of courses from multiple disciplines including history, political science, anthropology, geography and criminal justice, helping to understand the causes of war, security strategies of states and the rise of new and challenging security threats – especially as they relate to domestic and non-state actors – in a constantly changing global environment.
-
-**Popular courses:**
-
+<div class="course-box">
 - [Superpower America](http://bulletin.temple.edu/search/?search=HIST+3229 "Superpower America")
 - [Post-Cold War Security](http://bulletin.temple.edu/search/?search=POLS+2311 "Post-Cold War Security")
 - [United States Foreign Policy](http://bulletin.temple.edu/search/?search=POLS+2341 "United States Foreign Policy")
 - [20th Century Europe: A Continent in Crisis](http://bulletin.temple.edu/search/?search=HIST+2304 "20th Century Europe: A Continent in Crisis")
 - [Terrorism, Transnational Crime, and Global Security](http://bulletin.temple.edu/search/?search=CJ+3405 "Terrorism, Transnational Crime, and Global Security")
+</div>
+
+Today’s world faces a raft of potential security threats, from the rise of new great powers to international terrorism, weapons proliferation, cyber warfare, and the possibility of new global epidemics, among others. Students in the Global Security track have access to dozens of courses from multiple disciplines including history, political science, anthropology, geography and criminal justice, helping to understand the causes of war, security strategies of states and the rise of new and challenging security threats – especially as they relate to domestic and non-state actors – in a constantly changing global environment.
 
 ### Global Economy
 
-Economic globalization is one of the defining features of the contemporary world. This track focuses on the fundamental features of the global economy from multiple disciplinary perspectives, including in the areas of trade, finance, and development. It studies the origins and consequences of globalization for development and growth, income and poverty, literacy and health, as well as political, demographic, environmental, and cultural changes. Students examine the evolution of cooperation among states in managing the global economy, and the role of history, politics, and technology in shaping international, national, and local relations.
-
+{% include elements/course-box-open.html %}
 **Popular courses:**
-
 - [Economics of Development & Growth](http://bulletin.temple.edu/search/?search=ECON+3547+ "Economics of Development & Growth")
 - [International Trade](http://bulletin.temple.edu/search/?search=ECON+3563 "International Trade")
 - [International Monetary Economics](http://bulletin.temple.edu/search/?search=ECON+3564 "International Monetary Economics")
 - [Urban Systems in a Global Economy](http://bulletin.temple.edu/search/?search=GUS+2032 "Urban Systems in a Global Economy")
 - [Politics of the Global Economy](http://bulletin.temple.edu/search/?search=POLS+2321 "Politics of the Global Economy")
+{% include elements/course-box-close.html %}
+
+Economic globalization is one of the defining features of the contemporary world. This track focuses on the fundamental features of the global economy from multiple disciplinary perspectives, including in the areas of trade, finance, and development. It studies the origins and consequences of globalization for development and growth, income and poverty, literacy and health, as well as political, demographic, environmental, and cultural changes. Students examine the evolution of cooperation among states in managing the global economy, and the role of history, politics, and technology in shaping international, national, and local relations.
 
 ### Global Cultures
 
-Globalization does not simply affect security and economics: Throughout history, different cultures have interacted and intermixed, sometimes peacefully and sometimes through imperialism and conquest. The Global Cultures track focuses not only on different national cultures, but also on what happens when cultures come into contact, and sometimes into conflict. Students in this track will examine the interaction of global and local cultures from the European imperialisms of the 19th century through the spread of Americanization in the 20th century to the ever-more pluralistic digital world of the 21st century, drawing on courses selected from a wide list of options in literature, film, religion, history, anthropology, religion, and sociology.
-
+{% include elements/course-box-open.html %}
 **Popular courses:**
-
 - [Fundamentals of Cultural Anthropology](http://bulletin.temple.edu/search/?search=ANTH+2396 "Fundamentals of Cultural Anthropology")
 - [Introduction to Postcolonial Literatures](http://bulletin.temple.edu/search/?search=ENG+2601 "Introduction to Postcolonial Literatures")
 - [Imperialism, Race, and Empire](http://bulletin.temple.edu/search/?search=HIST+2702 "Imperialism, Race, and Empire")
 - [Religion and Society](http://bulletin.temple.edu/search/?search=REL+1001 "Religion and Society")
 - [Globalization: Causes, Promises, and Discontents](http://bulletin.temple.edu/search/?search=SOC+3219 "Globalization: Causes, Promises, and Discontents")
 - Regional Enrichment Options
+{% include elements/course-box-close.html %}
+
+Globalization does not simply affect security and economics: Throughout history, different cultures have interacted and intermixed, sometimes peacefully and sometimes through imperialism and conquest. The Global Cultures track focuses not only on different national cultures, but also on what happens when cultures come into contact, and sometimes into conflict. Students in this track will examine the interaction of global and local cultures from the European imperialisms of the 19th century through the spread of Americanization in the 20th century to the ever-more pluralistic digital world of the 21st century, drawing on courses selected from a wide list of options in literature, film, religion, history, anthropology, religion, and sociology.
 
 ## The Global Studies Minor
 
