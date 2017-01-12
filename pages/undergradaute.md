@@ -14,10 +14,10 @@ We also offer a [minor in Global Studies](http://bulletin.temple.edu/undergradua
 
 All Global Studies majors begin with a combination of four introductory courses, as a gateway to the major:
 
-- Global Studies 2096: Introduction to Global Studies (WI)
-- Political Science 1301: International Politics
-- Economics 1101: Macroeconomic Principles
-- History 2819: Global Connections
+- Global Studies 2096: [Introduction to Global Studies](http://bulletin.temple.edu/search/?search=GBST+2096 "Introduction to Global Studies") (WI)
+- Political Science 1301: [International Politics](http://bulletin.temple.edu/search/?search=POLS+1301 "International Politics")
+- Economics 1101: [Macroeconomic Principles](http://bulletin.temple.edu/search/?search=ECON+1101 "Macroeconomic Principles")
+- History 2819: [Global Connections](http://bulletin.temple.edu/search/?search=HIST+2819 "Global Connections")
 
 From here, you can select one of the three thematic tracks to become the focus of their major. Students also complete at least two years of foreign language instruction, as well as a Regional Enrichment program — an approved study abroad program or coursework focusing on a region of interest.
 
@@ -31,11 +31,11 @@ Today’s world faces a raft of potential security threats, from the rise of new
 
 **Popular courses:**
 
-- Superpower America
-- Post-Cold War Security
-- United States Foreign Policy
-- 20th Century Europe: A Continent in Crisis
-- Terrorism, Transnational Crime, and Global Security
+- [Superpower America](http://bulletin.temple.edu/search/?search=HIST+3229 "Superpower America")
+- [Post-Cold War Security](http://bulletin.temple.edu/search/?search=POLS+2311 "Post-Cold War Security")
+- [United States Foreign Policy](http://bulletin.temple.edu/search/?search=POLS+2341 "United States Foreign Policy")
+- [20th Century Europe: A Continent in Crisis](http://bulletin.temple.edu/search/?search=HIST+2304 "20th Century Europe: A Continent in Crisis")
+- [Terrorism, Transnational Crime, and Global Security](http://bulletin.temple.edu/search/?search=CJ+3405 "Terrorism, Transnational Crime, and Global Security")
 
 ### Global Economy
 
