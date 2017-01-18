@@ -13,6 +13,6 @@ Gain advanced knowledge about international cultures and essential skills that a
 
 <div class="row">
 <div class="col m12 l4">{% include cards/card2-image.html title="International Opportunities" content="Our students can study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs." image="assets/img_gs_rome.png" %}</div>
-<div class="col m12 l4">{% include cards/card2-image.html title="Expand Your Perspective" content="Grants are available to liberal arts students, faculty and staff that support projects with a global focus." image="assets/img_gs_languages.png" %}</div>
+<div class="col m12 l4">{% include cards/card2-image.html title="Broaden Your Perspective" content="Grants are available to liberal arts students, faculty and staff that support projects with a global focus." image="assets/img_gs_languages.png" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Master the Global Economy" content="Global knowledge, language abilities and study abroad experience will prepare you to enter the ever-changing, international workforce of the 21st century." image="assets/img_gs_globalecon.png" %}</div>
 </div>
