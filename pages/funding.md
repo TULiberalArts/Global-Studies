@@ -42,7 +42,7 @@ All applications are due by March 15th for the following academic year, and awar
 
 Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies Program, at [mark.pollack@temple.edu](mark.pollack@temple.edu).
 
-## Student Research Grant
+## Graduate Student Research Grant
 
 The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
 
