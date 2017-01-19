@@ -3,9 +3,6 @@ title: Home
 permalink: /
 layout: home
 published: true
-headline: true
-headline-fluid: true
-headline-image: assets/hero_globalstudies.png
 ---
 
 # A Global Perspective
