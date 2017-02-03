@@ -8,7 +8,7 @@ Global Studies Program has four funding opportunities available to members of th
 
 ## Global Scholar Grants for Undergraduate Study Abroad
 
-As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world. The Global Scholar Grant is intended for Global Studies majors who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement.  Awards may include:
+As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world. The Global Scholar Grant is intended for Global Studies majors who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement. Awards may include:
 
 - Up to $1,500 for summer programs
 - Up to $3,000 for a semester abroad
