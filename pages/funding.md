@@ -14,7 +14,6 @@ As a component of the Global Studies degree, majors are required to fulfill a re
 - Up to $3,000 for a semester abroad
 - Up to $5,000 for an academic year abroad
 
-
 A limited number of scholarships will be awarded, and awards will be allocated based on merit and need.
 
 To be eligible to apply, applicants must be enrolled as full-time undergraduates in the Global Studies major, have demonstrated financial need, and have a minimum cumulative GPA of 3.0. All Global Studies majors in good standing who meet these criteria are encouraged to apply.
