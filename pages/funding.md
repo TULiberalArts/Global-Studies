@@ -6,27 +6,22 @@ published: true
 ---
 Global Studies Program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
 
-##  Global Scholar Grant
+## Global Scholar Grants for Undergraduate Study Abroad
 
-The Global Scholar Grant is available to undergraduate Global Studies majors to help fund their study abroad experiences. Awards may include:
+As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world. The Global Scholar Grant is intended for Global Studies majors who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement.  Awards may include:
 
 - Up to $1,500 for summer programs
 - Up to $3,000 for a semester abroad
 - Up to $5,000 for an academic year abroad
 
+
 A limited number of scholarships will be awarded, and awards will be allocated based on merit and need.
-
-## Regional Enrichment Scholarship
-
-As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world to complement the global, thematic focus of the major. This scholarship is aimed at students who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement.
 
 To be eligible to apply, applicants must be enrolled as full-time undergraduates in the Global Studies major, have demonstrated financial need, and have a minimum cumulative GPA of 3.0. All Global Studies majors in good standing who meet these criteria are encouraged to apply.
 
-To apply, students must complete the attached form. All applications should be sent in PDF or Word format to globalstudies@temple.edu. Questions about the scholarship should be directed to Danielle Scherer, the Assistant Director of Global Studies, at danielle.scherer@temple.edu.
+To apply, students must complete the application form, available here. All applications should be sent in PDF or Word format to globalstudies@temple.edu. Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at danielle.scherer@temple.edu.
 
-[Global Studies’ Undergraduate Study Abroad Scholarship Application](http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx)
-
-### Deadlines:
+**Deadlines:**
 
 - Summer Sessions: February 15th
 - Fall Term & Academic Year: April 15th
