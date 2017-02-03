@@ -4,9 +4,9 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-When you major in Global Studies, you learn the skills, perspective and worldview necessary to be a top candidate for careers or graduate study in a variety of disciplines.
+When you major in Global Studies, you learn the skills, perspective, and worldview necessary to be a top candidate for careers or graduate study in a variety of disciplines. Foreign language proficiency and study abroad experience make Global Studies graduates attractive job candidates in an array of industries, including advocacy, business, government service, education, research, law, non-profit organizations, and academe.
 
-Foreign language proficiency and study abroad experience will also make Global Studies graduates attractive job candidates in an array of industries, including business, civil service, government, education, law, medicine and health.
+To help students develop a global perspective, the Global Studies Program offers support to students in areas including study abroad, internships, and professional development.  
 
 ## A degree in Global Studies prepares students to:
 
@@ -16,10 +16,26 @@ Foreign language proficiency and study abroad experience will also make Global S
 
 ## Study Around the World
 
-One of the most exciting opportunities for students in the Global Studies major is the opportunity to [study abroad](http://studyabroad.temple.edu/). Study abroad is strongly encouraged for all Global Studies majors as part of the Regional Enrichment program, and advisors will work with you to directly identify the study abroad option that best fits with your foreign language choices, academic interests and career plans. Students can select a summer program (6 credits) or full semester (12-15 credits) option for this requirement.
+One of the most exciting opportunities for students in the Global Studies Program is the opportunity to [study abroad](http://studyabroad.temple.edu/). All Global Studies students are strongly encouraged to study abroad as part of the program’s Regional Enrichment requirement, and our advisors will work with you to directly identify the study abroad option that best fits with your foreign language choices, academic interests, and career path while still allowing you to Fly in 4. Students are able to study abroad for a summer program (6 credits) or full semester (12-15 credits) or even a year (24-30 credits). 
 
-Students may opt to study abroad at either of Temple’s international campuses in Rome or Tokyo. Students in these programs pay regular Temple tuition rates and receive financial aid.
+Students can opt to study at one of Temple’s international campuses and programs in [Rome](https://studyabroad.temple.edu/rome), [Tokyo](https://studyabroad.temple.edu/tokyo), or [Oviedo](https://studyabroad.temple.edu/spain) or they can take advantage of the more than 50 study abroad programs Temple has partnerships with. You can work with professionals in our [Education Abroad Office](https://studyabroad.temple.edu/) to find the study abroad option that’s right for you.
 
-In addition to these options, there are many other Temple semester and summer programs to choose from. Students are also permitted to study abroad through other, Temple-approved programs elsewhere.
+Students who study abroad at one of Temple’s international campuses or one of the Temple approved programs can apply their scholarships and financial aid to program tuition. Additionally, a number of scholarships exist to provide additional funding support to students who want to study abroad through the College of Liberal Arts, the Education Abroad Office, and the Global Studies Program, making studying abroad an affordable option.
 
-Students who are unable to participate in study abroad because of personal obligations or financial limitations may select the Area Studies option to fulfill their Regional Enrichment requirement. In this option, students select two courses focused on the culture, development, history or politics of a world region of their choice.
+## Global Internships, at Home and Abroad
+
+Undertaking an internship is an increasingly important part of the college experience as employers generally prefer to hire candidates with real world experience. This is especially true for companies with a global presence.  
+
+You can apply up to 3 credits of a global internship experience towards your track with the major or minor by registering for an internship course on main campus (GBST 3085) or by completing an internship course while studying abroad. The TU Rome and Japan campuses have well established internship programs that help place interested students in competitive positions in a variety of fields with international or foreign companies. Additionally, some study abroad programs offer experiential learning courses where students are placed in an NGO to get real life work experience that parallels coursework taken simultaneously on a related topic.
+
+Global Studies students have completed a variety of internships at home and abroad. We have placed students on main campus at Citizen Diplomacy International, The Chilean American Chamber of Commerce, The World Affairs Council, and the Philadelphia Office of the Inspector General. Other students have completed internships while abroad with Refugees International Japan (Tokyo), Rural Agriculture Development Authority (Yahalles, Jamaica), Sihanouk Hospital Center of HOPE (Phnom Penh, Cambodia), and Kalu Yala (Panama). 
+
+## Professional Development  
+
+The rigorous academic program combined with the personalized nature of a Global Studies degree opens a diverse set of doors relevant to the particular interests of each student. While the Global Studies Program is new, we have a strong track record for our graduates continuing on into graduate school (Cambridge) or starting their careers with employers like International S.O.S. (Costa Rica) or the M. Night Shyamalan Foundation (Philadelphia, PA). 
+
+To prepare for successful global careers, the Global Studies Program offers a variety of resources for our students. Throughout the year, we partner with the [CLA Professional Development Office](mailto:http://liberalarts.temple.edu/advising/professional-development) and the Temple University [Career Center](mailto:http://www.temple.edu/provost/careercenter/) to host a Global Professions Series to help students think about, plan for, and actively move towards global careers. Additionally, we promote internship and volunteer opportunities to our students while working with the Career Center to gain access to global internship and job portals like [GoinGlobal](mailto:https://online.goinglobal.com).  
+
+The prospect of choosing a career and finding a job after college can be daunting and may leave you feeling overwhelmed. Your time in college should be used to create a portfolio of experiences that not only make you a better candidate for your future career but also help you determine which paths you want to pursue. Take advantage of the great resources on campus to see what opportunities are available and map out your next steps.
+
+
