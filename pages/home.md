@@ -11,6 +11,6 @@ The world is increasingly globalized, with goods, services, people, and ideas tr
 
 <div class="row">
 <div class="col m12 l4">{% include cards/card2-image.html title="Broaden Your Perspective" content="Global Studies students learn to see the world as a whole, combining foundational courses with specialized study in global security, economy, or culture." image="assets/img_gs_rome.png" %}</div>
-<div class="col m12 l4">{% include cards/card2-image.html title="Explore the World" content="Our students can study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs." image="assets/img_gs_languages.png" %}</div>
+<div class="col m12 l4">{% include cards/card2-image.html title="Experience Temple Abroad" content="Our students can study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs." image="assets/img_gs_languages.png" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Design Your Future" content="Beyond the classroom, Global Studies students are encouraged to undertake internships, volunteer, be active in student organizations, and plan for a variety of global professions." image="assets/img_gs_globalecon.png" %}</div>
 </div>
