@@ -5,9 +5,11 @@ layout: home
 published: true
 ---
 
-# Exploring the World 
+# Exploring the World
+<br />
 
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Our interdisciplinary Global Studies program, including an undergraduate major and minor, brings together over a dozen fields of study, focusing on the global security, economy, and cultures. The major is further complemented by intensive foreign language instruction, unique study abroad experiences, and internships to prepare our students for their global careers.
+<br />
 
 <div class="row">
 <div class="col m12 l4">{% include cards/card2-image.html title="Broaden Your Perspective" content="Global Studies students learn to see the world as a whole, combining foundational courses with specialized study in global security, economy, or culture." image="assets/img_gs_rome.png" %}</div>
