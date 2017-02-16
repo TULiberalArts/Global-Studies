@@ -60,7 +60,7 @@ google_analytics: UA-69082166-1
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/global-studies/csv
 news-feed: https://liberalarts.temple.edu/news/global-studies/csv
-faculty-feed: # https://liberalarts.temple.edu/faculty/global-studies/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/global-studies/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
