@@ -1,4 +1,19 @@
 ---
 ---
 
+<<<<<<< HEAD
 // Custom styling goes here
+=======
+// Homepage banner
+#welcome {
+  margin-top: -2em;
+  margin-bottom: 2em;
+  padding: 4em 0;
+  background-image: url(../../media/hero_bg.png);
+  background-size: cover;
+  background-position: center right;
+  h1, h2, p {
+    color: white;
+  }
+}
+>>>>>>> 5cacb970b62c78801cbc9b52288942f830c37da1
