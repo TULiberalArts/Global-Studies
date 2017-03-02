@@ -8,7 +8,7 @@ baseurl: /global-studies
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple, global studies
 
@@ -47,13 +47,20 @@ social:
   slack:
 
 # University & College Information
-university: Temple University
-university.url: https://temple.edu/
-college: College of Liberal Arts
-college.url: https://liberalarts.temple.edu/
+university:
+  name: Temple University
+  url: https://temple.edu/
+college: 
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
 
 # Google Analytics
 google_analytics: UA-69082166-1
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/global-studies/csv
+news-feed: https://liberalarts.temple.edu/news/global-studies/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/global-studies/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
