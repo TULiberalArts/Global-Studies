@@ -5,9 +5,14 @@ layout: page
 published: true
 ---
 
-- Chair:
 - Director:
-- Undergraduate Chair:
-- Graduate Chair:
-- Administrator:
-- Coordinator:
+
+Mark A. Pollack
+461 Gladfelter Hall
+[mark.pollack@temple.edu](mailto:mark.pollack@temple.edu)
+
+- Assistant Director
+
+Danielle K. Scherer
+663 Gladfelter Hall
+[danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu)
