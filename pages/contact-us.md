@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 layout: page
-published: false
+published: true
 ---
 
 - Director:
