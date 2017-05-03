@@ -18,8 +18,8 @@ address:
   building: Gladfelter Hall
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: global-studies@temple.edu
-
+  email: <a href="mailto:global-studies@temple.edu">global-studies@temple.edu</a>
+  
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
