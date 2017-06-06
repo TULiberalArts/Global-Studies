@@ -19,17 +19,17 @@ address:
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
   email: global-studies@temple.edu
-  
+
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/TUGlobalStudies
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TUGlobalStudies
-  # Twitter - https://twitter.com/TUGlobalStudies
+  # Twitter - https://twitter.com/USERNAME
   twitter: TUGlobalStudies
-  # Instagram - https://www.instagram.com/tuliberalarts/
+  # Instagram - https://www.instagram.com/USERNAME
   instagram:
   # Snapchat - USERNAME
   snapchat:
@@ -50,12 +50,12 @@ social:
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 
 
 google_tag_manager: GTM-58ZL5B
