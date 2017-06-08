@@ -1,5 +1,6 @@
 ---
 title: Funding
+meta-keywords: 3 or 4 unique for this page
 permalink: /funding/
 layout: page
 published: true
