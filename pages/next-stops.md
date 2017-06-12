@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: global, study abroad, internship
 permalink: /next-stops/
 layout: page
 published: true
