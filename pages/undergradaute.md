@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: Global Studies program, students, international
 permalink: /undergraduate/
 layout: page
 published: true
