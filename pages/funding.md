@@ -1,8 +1,9 @@
 ---
 title: Funding
-meta-keywords: Global Studies, grants, undergraduate 
 permalink: /funding/
 layout: page
+keywords: 'Global Studies, grants, undergraduate' 
+description: >-
 published: true
 ---
 The Global Studies program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
