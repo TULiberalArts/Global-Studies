@@ -1,8 +1,9 @@
 ---
 title: Next Stops
-meta-keywords: global, study abroad, internship
 permalink: /next-stops/
 layout: page
+keywords: 'global, study abroad, internship'
+description: >-
 published: true
 ---
 When you major in Global Studies, you learn the skills, perspective, and worldview necessary to be a top candidate for careers or graduate study in a variety of disciplines. Foreign language proficiency and study abroad experience make Global Studies graduates attractive job candidates in an array of industries, including advocacy, business, government service, education, research, law, non-profit organizations, and academia.
