@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: Global Studies program, students, international
 permalink: /undergraduate/
 layout: page
+keywords: 'Global Studies program, students, international'
+description: >-
 published: true
 ---
 We offer a [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/) with specialization in one of three tracks: **global security**, **global economy** or **global cultures**.
