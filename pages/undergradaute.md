@@ -2,9 +2,11 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
+keywords: 'Global Studies program, students, international'
+description: >-
 published: true
 ---
-We offer a [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/) with specialization in one of three tracks: **global security**, **global economy** or **global cultures**.
+We offer a [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/) with specialization in one of three tracks: **global security**, **global economy** or **global cultures**.
 
 The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
 
@@ -19,7 +21,7 @@ All Global Studies majors begin with a combination of four introductory courses,
 - Economics 1101: [Macroeconomic Principles](http://bulletin.temple.edu/search/?search=ECON+1101 "Macroeconomic Principles")
 - History 2819: [Global Connections](http://bulletin.temple.edu/search/?search=HIST+2819 "Global Connections")
 
-From here, you can select one of the three thematic tracks to become the focus of their major. Students also complete at least two years of foreign language instruction, as well as a Regional Enrichment program — an approved study abroad program or coursework focusing on a region of interest.
+From here, you can select one of the three thematic tracks to become the focus of your major. Students also complete at least two years of foreign language instruction, as well as a Regional Enrichment program — an approved study abroad program or coursework focusing on a region of interest.
 
 A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track.
 
@@ -84,7 +86,6 @@ A writing-intensive senior capstone research seminar brings it all together, wit
     <li><a href="http://bulletin.temple.edu/search/?search=HIST+2702" title="Imperialism, Race, and Empire">Imperialism, Race, and Empire</a></li>
     <li><a href="http://bulletin.temple.edu/search/?search=REL+1001" title="Religion and Society">Religion and Society</a></li>
     <li><a href="http://bulletin.temple.edu/search/?search=SOC+3219" title="Globalization: Causes, Promises, and Discontents">Globalization: Causes, Promises, and Discontents</a></li>
-    <li>Regional Enrichment Options</li>
   </ul>
   </div>
 </div>

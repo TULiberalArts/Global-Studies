@@ -2,6 +2,8 @@
 title: Funding
 permalink: /funding/
 layout: page
+keywords: 'Global Studies, grants, undergraduate' 
+description: >-
 published: true
 ---
 The Global Studies program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
@@ -18,7 +20,7 @@ A limited number of scholarships will be awarded, and awards will be allocated b
 
 To be eligible to apply, applicants must be enrolled as full-time undergraduates in the Global Studies major, have demonstrated financial need, and have a minimum cumulative GPA of 3.0. All Global Studies majors in good standing who meet these criteria are encouraged to apply.
 
-To apply, students must complete the application form, available here. All applications should be sent in PDF or Word format to [globalstudies@temple.edu](globalstudies@temple.edu). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](danielle.scherer@temple.edu).
+To apply, students must complete the application form, available [here](http://www.cla.temple.edu/wp-content/uploads/2016/04/Global-Studies-Study-Abroad-Scholarship.docx). All applications should be sent in PDF or Word format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu).
 
 **Deadlines:**
 
@@ -34,15 +36,13 @@ Applications should consist of a brief (one page) description of the proposed gl
 
 All applications are due by March 15th for the following academic year, and award announcements will be made by April 15th. All funds must be spent in their entirety during the period of July 1st through June 30th.
 
-Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mark.pollack@temple.edu).
+Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).
 
 ## Graduate Student Research Grant
 
 The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
 
 College of Liberal Arts graduate students are invited to apply for grants to support research or data collection, including foreign travel for the purposes of archival research, interviews, ethnography, etc. Applicants may request a maximum of $3,000. Applicants must be enrolled students in good standing with their departments to be eligible. Students who have already benefited from a Global Studies Graduate Research Grant are not eligible to apply again.
-
-Upon completion of their funded activities, all awardees will be expected to participate in the Global Studies program in two ways: (1) by presenting a scholarly talk on their research after their return; and/or (2) by sharing their research experiences with Global Studies undergraduates in the Global Studies introductory course or in one of the capstone courses.
 
 Applications should consist of the following:
 
@@ -52,7 +52,7 @@ Applications should consist of the following:
 - A detailed budget showing how funds will be spent
 - A letter of recommendation (sent directly by an advisor)
 
-All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
+All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
 
 ## Event Grants
 
@@ -64,6 +64,6 @@ Applications should consist of a brief (one-page) description of the proposed ev
 
 Preference will be given to interdisciplinary proposals with participation from more than one CLA department; to proposals which help to support ongoing communities of students and faculty; and to proposals with anticipated or (preferably) confirmed co-financing from other departments, programs, or outside sources of funding.
 
-All applications are due by March 15th, for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
+All applications are due by March 15th for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
 
-Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mark.pollack@temple.edu).
+Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).

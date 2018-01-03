@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Must at least Jekyll 3.3 for theme support
 # Happy Jekylling!
-gem "jekyll", "~> 3.3"
+gem "jekyll", "~> 3.6"
 
 # This is the default theme for new Jekyll sites.
 gem "minima"
@@ -23,6 +23,7 @@ gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch =
 # For serving the built site
 gem "html-proofer"
 gem "s3_website"
+gem "yaml_command"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

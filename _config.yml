@@ -3,6 +3,9 @@
 title: Global Studies
 # Subdirectory (with / at only at beginning)
 baseurl: /global-studies
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -14,22 +17,22 @@ keywords: highered, college, university, philadelphia, Temple, global studies
 
 # Address
 address:
-  building: Gladfelter Hall
   room: 663
+  building: Gladfelter Hall
   street: 1115 Polett Walk
-  city: Phialdelphia, PA 19122
+  city: Philadelphia, PA 19122
   email: global-studies@temple.edu
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/TUGlobalStudies
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TUGlobalStudies
   # Twitter - https://twitter.com/USERNAME
   twitter: TUGlobalStudies
-  # Instagram -https://twitter.com/TUGlobalStudies
+  # Instagram - https://www.instagram.com/USERNAME
   instagram:
   # Snapchat - USERNAME
   snapchat:
@@ -50,17 +53,23 @@ social:
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
+ 
 
-# Google Analytics
-google_analytics: UA-69082166-1
+# Google Tag Manager OR Google Analytics
+google_analytics:
+
+
+google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/global-studies/csv
-news-feed: https://liberalarts.temple.edu/news/global-studies/csv
+news-feed: https://liberalarts.temple.edu/articles/global-studies/csv
+articles-feed: https://liberalarts.temple.edu/articles/global-studies/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/global-studies/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/global-studies/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -112,6 +121,8 @@ prose:
               value: page
             - name: faculty
               value: faculty
+            - name: faculty2
+              value: faculty2
             - name: home
               value: home
 
