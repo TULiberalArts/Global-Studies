@@ -5,8 +5,8 @@ title: Global Studies
 baseurl: /global-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
-
+# url so our sitemaps.xml spits correctly
+url: https://www.cla.temple.edu/global-studies
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
@@ -58,7 +58,7 @@ college:
   url: https://liberalarts.temple.edu/
   
 program_news: https://liberalarts.temple.edu/news/global-studies
-program_events: https://events.temple.edu/department/global-studies 
+program_events: https://events.temple.edu/department/global-studies
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
