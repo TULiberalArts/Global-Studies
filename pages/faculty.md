@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'global studies faculty, research, steering committee, affiliated faculty'
 description: >-
 published: true
 ---
