@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 layout: page
-keywords: ''
+keywords: 'contact, director, assistant director, global studies program'
 description: >-
 published: true
 ---
