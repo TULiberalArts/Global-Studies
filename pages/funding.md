@@ -6,10 +6,9 @@ keywords: 'Global Studies, grants, undergraduate'
 description: >-
 published: true
 ---
-The Global Studies program has four funding opportunities available to members of the Temple community. Some enable student groups and faculty members to host global events at Temple, while the others help students to go global either through research or studying abroad.
+The College of Liberal Arts’ Global Studies degree program has four funding opportunities available to members of the Temple University community. The [Global Scholar Grants](#global-scholar-grants-for-undergraduate-study-abroad), the [Student Organization Grants](#student-organization-grants) and the [Graduate Student Research Grants](#graduate-student-research-grant) help students to go global either through research or studying abroad. The [Event Grants](#event-grants), meanwhile, enable student groups and faculty members to host global events at Temple.
 
 ## Global Scholar Grants for Undergraduate Study Abroad
-
 As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world. The Global Scholar Grant is intended for Global Studies majors who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement. Awards may include:
 
 - Up to $1,500 for summer programs
@@ -29,7 +28,6 @@ To apply, students must complete the application form, available [here](https://
 - Spring Term: October 15th
 
 ## Student Organization Grants
-
 As an interdisciplinary program with both global and regional components, the Global Studies program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any College of Liberal Arts-affiliated student organization may apply for grants of up to $1,000.
 
 Applications should consist of a brief (one page) description of the proposed global or internationally-oriented activities, together with a detailed budget of costs as well as any available co-funding from other sources. Preference will be given to proposals with anticipated or (preferably) confirmed co-financing from other departments, programs, or outside sources of funding.
@@ -39,7 +37,6 @@ All applications are due by March 15th for the following academic year, and awar
 Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).
 
 ## Graduate Student Research Grant
-
 The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
 
 College of Liberal Arts graduate students are invited to apply for grants to support research or data collection, including foreign travel for the purposes of archival research, interviews, ethnography, etc. Applicants may request a maximum of $3,000. Applicants must be enrolled students in good standing with their departments to be eligible. Students who have already benefited from a Global Studies Graduate Research Grant are not eligible to apply again.
@@ -55,7 +52,6 @@ Applications should consist of the following:
 All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
 
 ## Event Grants
-
 Global Studies Event Grants are available to College of Liberal Arts faculty to host public events with an international or global focus, including lectures, speakers series, workshops, conferences, performances, and film screenings. All sponsored events must be public and open to all members of the Temple community.
 
 Any faculty member (tenure-track or nontenure-track) may apply for grants of up to $1,000 for a single event such as a speaker, $1,500 for conferences and workshops, and $2,000 for ongoing activities such as speakers series.
