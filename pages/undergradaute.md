@@ -6,14 +6,19 @@ keywords: 'Global Studies program, students, international'
 description: >-
 published: true
 ---
-We offer a [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/) with specialization in one of three tracks: **global security**, **global economy** or **global cultures**.
+The College of Liberal Arts’ [bachelors of arts](#ba-in-global-studies) in Global Studies degree lets you specialize in one of three tracks: global security, global economy or global cultures. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Undergraduate students can also [minor](#minor-in-global-studies) in global studies in all schools and colleges at Temple University.
 
-The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
+## BA in Global Studies
+We offer a BA in Global Studies with specialization in one of three tracks: **global security**, **global economy** or **global cultures**. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
 
-We also offer a [minor in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/), available to undergraduate students in all schools and colleges at Temple.
+Learn More About the [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/) 
+
+## Minor in Global Studies
+We also offer a minor in Global Studies, available to undergraduate students in all schools and colleges at Temple.
+
+Learn More about the Minor in [Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/)
 
 ## Coursework
-
 All Global Studies majors begin with a combination of four introductory courses, as a gateway to the major:
 
 - Global Studies 2096: [Introduction to Global Studies](http://bulletin.temple.edu/search/?search=GBST+2096 "Introduction to Global Studies") (WI)
