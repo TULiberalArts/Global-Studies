@@ -98,5 +98,4 @@ A writing-intensive senior capstone research seminar brings it all together, wit
 
 
 ## The Global Studies Minor
-
 Students may also take Global Studies as a minor, which includes the four foundation courses, together with three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
