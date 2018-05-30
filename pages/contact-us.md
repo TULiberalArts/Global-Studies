@@ -1,12 +1,14 @@
 ---
-title: Contact Us
-permalink: /contact-us/
+# global predefined variables
 layout: page
+permalink: /contact-us/
+published: true
+# meta-data variables
+title: Contact Us
 keywords: 'contact, director, assistant director, global studies program'
 description: >-
-published: true
+# custom variables
 ---
-
 **Director:**
 
 Mark A. Pollack<br>
