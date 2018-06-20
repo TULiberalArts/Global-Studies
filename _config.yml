@@ -7,6 +7,7 @@ baseurl: /global-studies
 production: https://www.cla.temple.edu
 # url so our sitemaps.xml spits correctly
 url: https://www.cla.temple.edu/global-studies
+
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
