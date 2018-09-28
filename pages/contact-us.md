@@ -8,7 +8,7 @@ title: Contact Us
 keywords: 'contact, director, assistant director, global studies program'
 description: >-
 # custom variables
-sidebar: false
+
 ---
 **Director:**
 

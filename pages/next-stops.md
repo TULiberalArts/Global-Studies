@@ -10,7 +10,7 @@ description: >-
   See where you can go with foreign language proficiency, study abroad experiences, global internships,
   and professional development from the Global Studies program at Temple University’s College of Liberal Arts.
 # custom variables
-sidebar: false
+
 ---
 When you pursue a Global Studies degree at the College of Liberal Arts, you learn the skills, perspective and worldview necessary to be a top candidate for careers or graduate study in a variety of disciplines. Foreign language proficiency, [study abroad](#study-around-the-world) experiences, [global internships](#global-internships-at-home-and-abroad) and [professional development](#professional-development) make global studies graduates attractive job candidates in an array of industries. Graduates find work in fields like advocacy, business, government service, education, research, law, non-profit organizations and academia.
 

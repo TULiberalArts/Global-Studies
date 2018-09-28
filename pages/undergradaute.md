@@ -10,8 +10,8 @@ description: >-
   Earn a bachelor of arts in Global Studies from Temple University in one of three tracks:
   global security, global economy, or global studies. Minor in Global Studies in the College of Liberal Arts.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html  
+
+sidebar: sidebars/undergraduate.html  
 ---
 The College of Liberal Arts’ [bachelors of arts](#ba-in-global-studies) in Global Studies degree lets you specialize in one of three tracks: global security, global economy or global cultures. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Undergraduate students can also [minor](#minor-in-global-studies) in global studies in all schools and colleges at Temple University.
 

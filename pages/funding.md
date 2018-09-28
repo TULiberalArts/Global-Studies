@@ -10,8 +10,8 @@ description: >-
   Temple University’s College of Liberal Arts’ Global Studies program has four funding opportunities:
   The Global Scholar Grants, the Student Organization Grants, the Graduate Student Research Grants, and the Event Grants.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/funding.html  
+
+sidebar: sidebars/funding.html  
 ---
 The College of Liberal Arts’ Global Studies degree program has four funding opportunities available to members of the Temple University community. The [Global Scholar Grants](#global-scholar-grants-for-undergraduate-study-abroad), the [Student Organization Grants](#student-organization-grants) and the [Graduate Student Research Grants](#graduate-student-research-grant) help students to go global either through research or studying abroad. The [Event Grants](#event-grants), meanwhile, enable student groups and faculty members to host global events at Temple.
 
