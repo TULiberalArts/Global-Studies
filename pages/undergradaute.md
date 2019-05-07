@@ -21,7 +21,7 @@ We offer a BA in Global Studies with specialization in one of three tracks: **gl
 Learn More About the [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/)
 
 ## Minor in Global Studies
-We also offer a minor in Global Studies, available to undergraduate students in all schools and colleges at Temple.
+Students may also take Global Studies as a minor available to undergraduate students in all schools and colleges at Temple. This includes the four foundation courses, together with three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
 
 Learn More about the Minor in [Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/)
 
@@ -102,7 +102,3 @@ A writing-intensive senior capstone research seminar brings it all together, wit
   </div>
 </div>
 </div>
-
-
-## The Global Studies Minor
-Students may also take Global Studies as a minor, which includes the four foundation courses, together with three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
