@@ -35,13 +35,13 @@ To apply, students must complete the application form, available [here](https://
 - Spring Term: October 15th
 
 ## Student Organization Grants
-As an interdisciplinary program with both global and regional components, the Global Studies program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any College of Liberal Arts-affiliated student organization may apply for grants of up to $1,000.
+As an interdisciplinary program with both global and regional components, the Global Studies program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any College of Liberal Arts-affiliated student organization may apply for grants of up to $500.
 
 Applications should consist of a brief (one page) description of the proposed global or internationally-oriented activities, together with a detailed budget of costs as well as any available co-funding from other sources. Preference will be given to proposals with anticipated or (preferably) confirmed co-financing from other departments, programs, or outside sources of funding.
 
-All applications are due by March 15th for the following academic year, and award announcements will be made by April 15th. All funds must be spent in their entirety during the period of July 1st through June 30th.
+All applications are due by October 15th, and award announcements will be made by November. All funds must be spent in their entirety by June 30th of the same academic year.
 
-Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).
+Applications, as well as any questions, may be sent to [globalstudies@temple.edu](mailto:globalstudies@temple.edu).
 
 ## Graduate Student Research Grant
 The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
