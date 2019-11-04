@@ -31,8 +31,8 @@ To apply, students must complete the application form, available [here](https://
 **Deadlines:**
 
 - Summer Sessions: February 15th
-- Fall Term & Academic Year: April 15th
-- Spring Term: October 15th
+- Fall Term & Academic Year: April 1st
+- Spring Term: October 1st
 
 ## Student Organization Grants
 As an interdisciplinary program with both global and regional components, the Global Studies program seeks to support CLA-affiliated student organizations, both graduate and undergraduate, in undertaking activities with an international or global focus, including speakers, workshops, conferences, performances, film screenings, field trips, and other activities. Any College of Liberal Arts-affiliated student organization may apply for grants of up to $500.
