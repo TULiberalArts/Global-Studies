@@ -26,7 +26,7 @@ A limited number of scholarships will be awarded, and awards will be allocated b
 
 To be eligible to apply, applicants must be enrolled as full-time undergraduates in the Global Studies major, have demonstrated financial need, and have a minimum cumulative GPA of 3.0. All Global Studies majors in good standing who meet these criteria are encouraged to apply.
 
-To apply, students must complete the application form, available [here](https://docs.google.com/forms/d/e/1FAIpQLSfcZjm6CHD2fFR7UHWRsl6n1-i0W8jm_5d2q-7bz8g7P8NmxA/viewform). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu).
+To apply, students must complete the application form, available [**here**](https://docs.google.com/forms/d/e/1FAIpQLSeRYYbbqrJ2efg9WSbOyxMG0CmABlziydqcMXm2dmUr6XfqIQ/viewform). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu).
 
 **Deadlines:**
 
