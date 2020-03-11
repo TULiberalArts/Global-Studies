@@ -26,7 +26,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Broaden Your Perspective"
     content="Global Studies students learn to see the world as a whole, combining foundational courses with specialized study in global security, economy, or culture."
     image="assets/img_gs_rome.png"
@@ -34,7 +34,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Experience Temple Abroad"
       content="Our students can study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs."
       image="assets/img_gs_languages.png"
@@ -42,7 +42,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Design Your Future"
         content="Beyond the classroom, Global Studies students are encouraged to undertake internships, volunteer, be active in student organizations, and plan for a variety of global professions."
         image="assets/img_gs_globalecon.png"
