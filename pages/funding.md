@@ -56,7 +56,7 @@ Applications should consist of the following:
 - A detailed budget showing how funds will be spent
 - A letter of recommendation (sent directly by an advisor)
 
-All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu). The deadline is March 15th each year for the following academic year and applicants will be informed of the decision by April 15th.
+All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu). The deadline is **April 1st** each year for the following academic year and applicants will be informed of the decision by April 15th.
 
 ## Event Grants
 Global Studies Event Grants are available to College of Liberal Arts faculty to host public events with an international or global focus, including lectures, speakers series, workshops, conferences, performances, and film screenings. All sponsored events must be public and open to all members of the Temple community.
@@ -67,6 +67,6 @@ Applications should consist of a brief (one-page) description of the proposed ev
 
 Preference will be given to interdisciplinary proposals with participation from more than one CLA department; to proposals which help to support ongoing communities of students and faculty; and to proposals with anticipated or (preferably) confirmed co-financing from other departments, programs, or outside sources of funding.
 
-All applications are due by March 15th for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
+All applications are due by **April 1st** for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
 
 Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).
