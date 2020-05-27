@@ -13,9 +13,9 @@ description: >-
 
 sidebar: sidebars/funding.html  
 ---
-The College of Liberal Arts’ Global Studies degree program has four funding opportunities available to members of the Temple University community. The [Global Scholar Grants](#global-scholar-grants-for-undergraduate-study-abroad), the [Student Organization Grants](#student-organization-grants) and the [Graduate Student Research Grants](#graduate-student-research-grant) help students to go global either through research or studying abroad. The [Event Grants](#event-grants), meanwhile, enable student groups and faculty members to host global events at Temple.
+The College of Liberal Arts’ Global Studies degree program has four funding opportunities available to members of the Temple University community. The [Global Scholar Grants](#global-scholar-grants-for-undergraduate-study-abroad), [Student Organization Grants](#student-organization-grants) and [Graduate Student Research Grants](#graduate-student-research-grant) help students to go global either through research or studying abroad. The [Event Grants](#event-grants), meanwhile, enable student groups and faculty members to host global events at Temple.
 
-## Global Scholar Grants for Undergraduate Study Abroad
+## Global Scholar and Student Organization Grants for Undergraduate Study Abroad
 As a component of the Global Studies degree, majors are required to fulfill a regional enrichment requirement, which is designed to provide students with expertise in a specific geographic region of the world. The Global Scholar Grant is intended for Global Studies majors who opt to undertake a study abroad experience of at least six weeks and six credits to fulfill their regional enrichment requirement. Awards may include:
 
 - Up to $1,500 for summer programs
@@ -44,7 +44,7 @@ All applications are due by October 15th, and award announcements will be made b
 Applications, as well as any questions, may be sent to [globalstudies@temple.edu](mailto:globalstudies@temple.edu).
 
 ## Graduate Student Research Grant
-The Graduate Student Research Grant is available to graduate students in the College of Liberal Arts who are undertaking research that is international, transnational, or global in nature. These grants are intended to support graduate students in conducting original research that will be part of their dissertation or a project intended for publication.
+The Graduate Student Research Grant is available to College of Liberal Arts graduate students who are undertaking international, transnational or global research. These grants support graduate students’ original research that will be part of their dissertation or a project intended for publication.
 
 College of Liberal Arts graduate students are invited to apply for grants to support research or data collection, including foreign travel for the purposes of archival research, interviews, ethnography, etc. Applicants may request a maximum of $3,000. Applicants must be enrolled students in good standing with their departments to be eligible. Students who have already benefited from a Global Studies Graduate Research Grant are not eligible to apply again.
 
