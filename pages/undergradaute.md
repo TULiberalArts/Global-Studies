@@ -18,7 +18,7 @@ The College of Liberal Arts’ [bachelors of arts](#bachelor-of-arts-in-global-s
 ## Bachelor of Arts in Global Studies
 We offer a BA in Global Studies with specialization in one of three tracks: **global security**, **global economy** or **global cultures**. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
 
-Learn More about the [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/)
+Learn More about the [BA in Global Studies](https://www.temple.edu/academics/degree-programs/global-studies-major-la-gbst-ba)
 
 ## Minor in Global Studies
 Students in any Temple school or college may also minor in Global Studies. The minor includes four foundation courses and three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
