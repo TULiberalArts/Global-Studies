@@ -13,27 +13,27 @@ description: >-
 
 sidebar: sidebars/undergraduate.html  
 ---
-The College of Liberal Arts’ [bachelors of arts](#ba-in-global-studies) in Global Studies degree lets you specialize in one of three tracks: global security, global economy or global cultures. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Undergraduate students can also [minor](#minor-in-global-studies) in global studies in all schools and colleges at Temple University.
+The College of Liberal Arts’ [bachelors of arts](#bachelor-of-arts-in-global-studies) in Global Studies degree lets you specialize in one of three tracks: global security, global economy or global cultures. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Undergraduate students can also [minor](#minor-in-global-studies) in global studies in all schools and colleges at Temple University.
 
 ## Bachelor of Arts in Global Studies
 We offer a BA in Global Studies with specialization in one of three tracks: **global security**, **global economy** or **global cultures**. The tracks allow students to identify a specialized program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar.
 
-Learn More About the [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/)
+Learn More about the [BA in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/ba-global-studies/)
 
 ## Minor in Global Studies
-Students may also take Global Studies as a minor available to undergraduate students in all schools and colleges at Temple. This includes the four foundation courses, together with three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
+Students in any Temple school or college may also minor in Global Studies. The minor includes four foundation courses and three courses selected from one of the three thematic tracks. There is no foreign language or regional enrichment requirement for the minor.
 
-Learn More about the Minor in [Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/)
+Learn More about the [Minor in Global Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/global-studies/minor-global-studies/)
 
 ## Coursework
-All Global Studies majors begin with a combination of four introductory courses, as a gateway to the major:
+All Global Studies majors begin the program with four introductory courses as a gateway to the major:
 
 - Global Studies 2096: [Introduction to Global Studies](http://bulletin.temple.edu/search/?search=GBST+2096 "Introduction to Global Studies") (WI)
 - Political Science 1301: [International Politics](http://bulletin.temple.edu/search/?search=POLS+1301 "International Politics")
 - Economics 1101: [Macroeconomic Principles](http://bulletin.temple.edu/search/?search=ECON+1101 "Macroeconomic Principles")
 - History 2819: [Global Connections](http://bulletin.temple.edu/search/?search=HIST+2819 "Global Connections")
 
-From here, you can select one of the three thematic tracks to become the focus of your major. Students also complete at least two years of foreign language instruction, as well as a Regional Enrichment program — an approved study abroad program or coursework focusing on a region of interest.
+From here, you can select one of the three thematic tracks to become the focus of your major. Students also complete at least two years of foreign language instruction and a Regional Enrichment program—an approved study abroad program or coursework focusing on a region of interest.
 
 A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track.
 
