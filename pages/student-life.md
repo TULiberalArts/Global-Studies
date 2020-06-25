@@ -30,13 +30,19 @@ Doing an internship is an increasingly important part of the college experience;
 
 **Internships Online** A number of organizations and companies have robust online internship opportunities. One program popular with our students is the [Virtual Student Federal Service](https://vsfs.state.gov) through the State Department. If you are interested in pursuing online internships that embrace remote work, contact the Global Studies advisor at [globalstudies@temple.edu](mailto:globalstudies@temple.edu) for information on opportunities! 
 
+___
+
 ## Language Immersion
 **Temple programs** are available for students who want to go abroad and develop their language skills through an immersive experience. For those interested in [German](https://www.cla.temple.edu/german/student-life/), programs are held in Hamburg, Leipzig, and Tübingen. For those interested in Spanish, programs are held through the [Latin American Studies Semester](https://www.cla.temple.edu/latin-american-studies/study-abroad/) and through Temple’s Spring semester is [Oviedo](https://studyabroad.temple.edu/sites/temple-in-spain-spring-semester). Students interested in French can study abroad through [Temple at the Sorbonne](https://studyabroad.temple.edu/sites/temple-summer-in-france) in Paris for an immersive language experience. For students interested in other languages, [Education Abroad](https://studyabroad.temple.edu) has a number of partner programs that provide immersive experiences in Arabic, Chinese, Italian, Japanese, Korean, and Russian. 
 
 **Critical Language Scholarships** are a [summer opportunity](https://clscholarship.org) through the U.S. State Department to learn languages essential to America’s engagement with the world. The CLS Program is a competitive scholarship opportunity, but Global Studies students have a proven track record of winnings these scholarships. We work with Barbara Gorka in the [Office of Scholar Development and Fellowships Advising Office](https://www.temple.edu/vpus/fellowships/) to help our students prepare their successful applications to study Arabic, Chinese, Hindi, Indonesia, Russian, and Turkish.
 
+___
+
 ## Study Abroad
 Our students are passionate about going global, and participating in an approved study abroad program is one way that our students can satisfy their regional enrichment requirement. The amazing advisors in [Temple’s Office of Education Abroad and Overseas Campuses](https://studyabroad.temple.edu) can help you explore the many study abroad programs available from a summer in Berlin learning about culture to spending a year at Temple’s campus in Tokyo. Immerse yourself in another culture, and gain a world of experience that will expand your mind and teach you invaluable skills. Check out where our students study abroad on our [interactive map](https://www.google.com/maps/d/viewer?hl=en&mid=1O2ryh-kouNqzea-WZXky1ecNsdmYE8DI&ll=7.578814129729919%2C45.37329459999996&z=2) featuring pictures of our students abroad!
+
+___
 
 ## Student Organizations
 Stay connected and get involved with one of the student organizations popular with our majors!
@@ -48,6 +54,8 @@ Stay connected and get involved with one of the student organizations popular wi
 **Temple Model United Nations** works to help students address global issues through communication and teamwork in a professional environment. Model United Nations provides delegates an opportunity to work toward excellence through innovative thinking in conferences that emulate the real United Nations held year-round. Learn more about the organization through OwlConnect. 
 
 **Temple University Undergraduate History and Social Sciences Association** is a student organization that focuses on building relationships between students interested in history and the social sciences. They host a number of events throughout the year and publish a peer-reviewed undergraduate journal entitled _Perceptions_. Learn more about [their organization](https://temple.campuslabs.com/engage/organization/tuhssa). 
+
+___
 
 ## Talks and Events
 The Global Studies Program serves to foster excellence in learning about global issues at Temple University. Our interdisciplinary program brings together knowledge and experiences from across a dozen fields to address the critical issues of our day. We offer a wide range of events on cutting-edge research, timely issues, cultural narratives, and global careers through partnerships and collaborations with organizations and groups throughout Temple's community. Follow us on Twitter and Facebook [@TUGlobalStudies](https://twitter.com/TUGlobalStudies) to stay in the loop about our events.
