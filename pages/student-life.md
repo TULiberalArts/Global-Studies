@@ -55,6 +55,11 @@ Stay connected and get involved with one of the student organizations popular wi
 
 **Temple University Undergraduate History and Social Sciences Association** is a student organization that focuses on building relationships between students interested in history and the social sciences. They host a number of events throughout the year and publish a peer-reviewed undergraduate journal entitled _Perceptions_. Learn more about [their organization](https://temple.campuslabs.com/engage/organization/tuhssa). 
 
+
+<div class="video-container">
+<iframe width="560px" height="315px" src="https://sway.office.com/s/EinPKsBL6CaEApvV/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+</div>  
+
 ___
 
 ## Talks and Events
