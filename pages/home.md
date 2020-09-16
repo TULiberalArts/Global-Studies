@@ -37,7 +37,7 @@ ___
       title="Experience Temple Abroad"
       content="Our students can study and earn internship credit abroad at Temple’s campuses in Rome and Japan, as well as at dozens of other Temple-recognized programs."
       image="assets/img_gs_languages.png"
-      button-link="/global-studies/next-stops/#study-around-the-world"
+      button-link="/global-studies/student-life/#study-abroad"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -45,7 +45,7 @@ ___
         title="Design Your Future"
         content="Beyond the classroom, Global Studies students are encouraged to undertake internships, volunteer, be active in student organizations, and plan for a variety of global professions."
         image="assets/img_gs_globalecon.png"
-        button-link="/global-studies/next-stops/"
+        button-link="/global-studies/student-life/"
         button-text="Learn More" %}
       </div>
     </div>
