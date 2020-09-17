@@ -26,7 +26,7 @@ A limited number of scholarships will be awarded, and awards will be allocated b
 
 To be eligible to apply, applicants must be enrolled as full-time undergraduates in the Global Studies major, have demonstrated financial need, and have a minimum cumulative GPA of 3.0. All Global Studies majors in good standing who meet these criteria are encouraged to apply.
 
-To apply, students must complete the application form, available [**here**](https://forms.gle/8UDn2ZJhfDfKZu2P6). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu).
+To apply, students must complete the [**application form**](https://forms.gle/8UDn2ZJhfDfKZu2P6). Questions about the scholarship should be directed to Danielle K. Scherer, the Assistant Director of Global Studies, at [danielle.scherer@temple.edu](mailto:danielle.scherer@temple.edu).
 
 **Deadlines:**
 
@@ -56,7 +56,7 @@ Applications should consist of the following:
 - A detailed budget showing how funds will be spent
 - A letter of recommendation (sent directly by an advisor)
 
-All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Mark Pollack at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu). The deadline is **April 1st** each year for the following academic year and applicants will be informed of the decision by April 15th.
+All applications and recommendations should be sent in Word or pdf format to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Questions about the grant should be directed to Global Studies program Director Sanjoy Chakravorty at [sanjoy.chakravorty@temple.edu](mailto:sanjoy.chakravorty@temple.edu). The deadline is **April 1st** each year for the following academic year and applicants will be informed of the decision by April 15th.
 
 ## Event Grants
 Global Studies Event Grants are available to College of Liberal Arts faculty to host public events with an international or global focus, including lectures, speakers series, workshops, conferences, performances, and film screenings. All sponsored events must be public and open to all members of the Temple community.
@@ -69,4 +69,4 @@ Preference will be given to interdisciplinary proposals with participation from 
 
 All applications are due by **April 1st** for the subsequent academic year and award announcements will be made by April 15th. Funds will be made available starting on July 1st, and must be spent in their entirety by June 30th.
 
-Applications may be sent to globalstudies@temple.edu. Any questions can be directed to Mark Pollack, the Director of the Global Studies program, at [mark.pollack@temple.edu](mailto:mark.pollack@temple.edu).
+Applications may be sent to [globalstudies@temple.edu](mailto:globalstudies@temple.edu). Any questions can be directed to Sanjoy Chakravorty, the Director of the Global Studies program, at [sanjoy.chakravorty@temple.edu](mailto:sanjoy.chakravorty@temple.edu).
