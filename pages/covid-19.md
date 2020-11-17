@@ -11,6 +11,15 @@ description: >-
 ---
 The Coronavirus pandemic is a global phenomenon unlike any other, at least in terms of speed (more than climate change) and reach (more than trade). Its effects and consequences in different countries and societies are remarkably diverse. The College of Liberal Arts at Temple University is fortunate to have among its faculty many area specialists, with deep knowledge about a large array of countries. The Global Studies Program has created this new public platform to share some of this knowledge. Our goal is to collect short essays on the Coronavirus experience from around the world. These are not the big picture articles that tend to dominate in the US media (such as “the future of globalization” or “what will happen to international trade”); rather, we wish to highlight stories or ideas or conditions that are specific to places or countries. This is a living document. Please consider sending your own essay to enrich the breadth of our collective knowledge, to [global-studies@temple.edu](mailto:global-studies@temple.edu).
 
+_Table of Contents_:<br>
+- [The Caribbean by Harvey Neptune](#the-caribbean-quarantine-culture)
+- [Congo and Haiti by Terry Rey](#congo-haiti-covid)
+- [Germany by Richard Deeg](#germany-the-success-of-institutions-and-coordination)
+- [India by Sanjoy Chakravorty](#india-a-nightmare-for-migrant-workers)
+- [Myanmar (Burma) by Jacob Shell](#myanmar-burma-and-covid 19)
+- [Palestine by Alexa Firat](#palestine-radio-al-hara-cant-quarantine-the-airwaves)
+- [Peru by Mónica Rickets](#peru-covid-neoliberalism-chaos-and-hope)
+
 ___
 
 ### The Caribbean: Quarantine Culture
