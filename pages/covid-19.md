@@ -13,11 +13,11 @@ The Coronavirus pandemic is a global phenomenon unlike any other, at least in te
 
 _Table of Contents_:<br>
 - [The Caribbean by Harvey Neptune](#the-caribbean-quarantine-culture)
-- [Congo and Haiti by Terry Rey](#congo-haiti-covid)
+- [Congo and Haiti by Terry Rey](#congo--haiti—covid)
 - [Germany by Richard Deeg](#germany-the-success-of-institutions-and-coordination)
 - [India by Sanjoy Chakravorty](#india-a-nightmare-for-migrant-workers)
 - [Myanmar (Burma) by Jacob Shell](#myanmar-burma-and-covid-19)
-- [Palestine by Alexa Firat](#palestine-radio-al-hara-cant-quarantine-the-airwaves)
+- [Palestine by Alexa Firat](#palestine-radio-al-hara---cant-quarantine-the-airwaves)
 - [Peru by Mónica Rickets](#peru-covid-neoliberalism-chaos-and-hope)
 
 ___
