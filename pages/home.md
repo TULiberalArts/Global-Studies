@@ -16,6 +16,9 @@ feature-image: media/croppedhero_global.png
 ---
 The world is increasingly globalized, with goods, services, people and ideas traveling across borders more often (and more quickly) than ever before. Temple University College of Liberal Arts’ interdisciplinary Global Studies program features an undergraduate major and minor. The program brings together over a dozen fields of study, focusing on global security, economy and cultures. The major is further complemented by intensive foreign language instruction, unique study abroad experiences and internships to prepare our students for their global careers.
 
+### COVID-19 Around the Globe
+The Global Studies program has collected short essays on the effects of Covid-19 in countries across the globe. This effort is to leverage our unique advantage of having faculty with such deep knowledge about different regions of the world. Read our current [COVID-19 Around the Globe essays](https://sites.temple.edu/covid19aroundtheglobe/)!
+
 ___
 
 ## Academic Offerings
