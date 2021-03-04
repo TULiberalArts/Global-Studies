@@ -40,7 +40,8 @@ ___
 Speakers:
 - Tracey Osborne, UC Merced
 - Kevon Rhiney, Rutgers University
-- Kimberley Thomas, Temple University (Geography & Urban Studies), Organizer Moderator: Austin Martin, PhD Student (Geography & Urban Studies)
+- Kimberley Thomas, Temple University (Geography & Urban Studies), Organizer 
+- Moderator: Austin Martin, PhD Student (Geography & Urban Studies)
 
 This webinar highlights geographical perspectives on climate justice that take contemporary climate inequities to be functions of historical and ongoing systems of oppression, exploitation, and marginalization. The panel draws on field experiences in several countries including Ecuador, Mexico, Jamaica, Vietnam, Bangladesh, Guyana, and the United States to consider how enacting climate justice is necessarily anticolonial and entails struggles over whose knowledge counts.<br>
 _Cosponsored by Geography & Urban Studies and Dissent in America_<br>
@@ -83,3 +84,4 @@ Paper Contest Guidelines:
 
 By "anthropological and/or ethnographic research," we mean that papers should cite anthropologists who are studying/who have studied relevant nationalist politics and movements and/or scholars (who may or may not be anthropologists) who use ethnographic research methods.<br>
 _Cosponsored by Anthropology and Dissent in America_
+- [Link to Attend](https://bit.ly/3pYsA5T) 
