@@ -18,6 +18,7 @@ This semester, the Global Studies Program is hosting a series of events via zoom
 **March 11, 1:00-3:00pm EST**<br>
 
 **_What Makes Climate Change Colonial...and How Can it be Addressed as Such?_**<br>
+
 Speakers:
 - Tracey Osborne, UC Merced
 - Kevon Rhiney, Rutgers University
@@ -34,6 +35,7 @@ ___
 **April 15, 2:00-4:00pm EDT**<br>
 
 **_Populist and Far-Right Movements_**<br>
+
 Speakers:
 - Carly Barboza Machado, Universidade Federal Rural do Rio de Janeiro 
 - Rohit Chopra, Santa Clara University
