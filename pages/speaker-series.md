@@ -13,6 +13,24 @@ sidebar: sidebars/funding.html
 ## Global Studies Spring 2021 Webinar Series
 This semester, the Global Studies Program is hosting a series of events via zoom featuring scholars and practitioners who will speak on topics ranging from AI to climate change and fascism. Learn more below about our events and register to attend.
 
+![Global Webinar]({{site.baseurl}}/media/C-1.png){:.responsive-img .img-center}
+
+**March 5, 12:00-2:30pm EST**<br>
+
+**_Modeling the Mind:From Buddhism to Artificial General Intelligence_**<br>
+
+Speakers:
+- Joscha Bach, AI Foundation
+- Simon Wiles, Stanford Libraries
+- Pei Wang, Temple University (Computer Science)
+- Marcus Bingenheimer, Temple University (Religion), Organizer
+
+This radically interdisciplinary symposium juxtaposes Buddhist models of the mind and contemporary research in Artificial General Intelligence (AGI). How did humans understand in different environments and for different purposes? What is the place of ethics, perception, logic, volition, embodiment, and consciousness in a traditional belief system like Buddhism? How does it differ from the Artificial Intelligences explored in contemporary Computer, Cognitive and Neuro-Science?<br>
+_Cosponsored by Temple Libraries, CHAT, and the Loretta C. Duckworth Scholars Studio_<br>
+- [Webinar Registration Link]( https://bit.ly/3jg0fFs)
+
+___
+
 ![Global Webinar]({{site.baseurl}}/media/C-2.png){:.responsive-img .img-center}
 
 **March 11, 1:00-3:00pm EST**<br>
@@ -65,4 +83,3 @@ Paper Contest Guidelines:
 
 By "anthropological and/or ethnographic research," we mean that papers should cite anthropologists who are studying/who have studied relevant nationalist politics and movements and/or scholars (who may or may not be anthropologists) who use ethnographic research methods.<br>
 _Cosponsored by Anthropology and Dissent in America_
-- [Webinar Registration Link](https://bit.ly/3pYsA5T)
