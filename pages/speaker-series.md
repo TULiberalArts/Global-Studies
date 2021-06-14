@@ -45,7 +45,6 @@ Speakers:
 
 This webinar highlights geographical perspectives on climate justice that take contemporary climate inequities to be functions of historical and ongoing systems of oppression, exploitation, and marginalization. The panel draws on field experiences in several countries including Ecuador, Mexico, Jamaica, Vietnam, Bangladesh, Guyana, and the United States to consider how enacting climate justice is necessarily anticolonial and entails struggles over whose knowledge counts.<br>
 _Cosponsored by Geography & Urban Studies and Dissent in America_<br>
-- [Webinar Registration Link](https://bit.ly/3pY7296)
 
 ___
 
